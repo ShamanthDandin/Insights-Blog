@@ -1,4 +1,4 @@
-name = "backend"
+name = "insights-backend"
 main = "src/index.ts"
 compatibility_date = "2024-10-04"
 compatibility_flags = [ "nodejs_compat" ]
